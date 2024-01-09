@@ -27,5 +27,6 @@ Actualmente, me enfoco principalmente en:
 ¡Puedes contactarme a través de mis redes!
 
 - 📧 Email: [luiscandelo30@gmail.com](mailto:luiscandelo30@gmail.com)
+  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/Candelo30) [![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat&logo=Discord&logoColor=white)](https://discord.com/users/933515593863295067)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luis-eduardo-c-6015131ab/)
